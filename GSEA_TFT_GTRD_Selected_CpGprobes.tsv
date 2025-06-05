@@ -1,0 +1,245 @@
+
+Overlap Results
+
+Collection(s):	TFT:GTRD
+# overlaps shown:	20
+# genesets in collections:	505
+# genes in comparison (n):	210
+# genes in universe (N):	42577
+
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+ZSCAN5DP_TARGET_GENES	1538	Genes containing one or more binding sites for UniProt:P0CG00 (ZSCAN5DP) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	36	0.0234	8.19E-15	4.14E-12
+BARX2_TARGET_GENES	1906	Genes containing one or more binding sites for UniProt:Q9UMQ3 (BARX2) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	38	0.0199	1.97E-13	4.98E-11
+BARHL1_TARGET_GENES	1302	Genes containing one or more binding sites for UniProt:Q9BZE3 (BARHL1) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	31	0.0238	4.76E-13	8.02E-11
+ASH1L_TARGET_GENES	1470	Genes containing one or more binding sites for UniProt:Q9NR48 (ASH1L) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	32	0.0218	2.06E-12	2.6E-10
+ATF6_TARGET_GENES	1081	Genes containing one or more binding sites for UniProt:P18850 (ATF6) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	27	0.0250	5.92E-12	5.98E-10
+AEBP2_TARGET_GENES	1226	Genes containing one or more binding sites for UniProt:Q6ZN18 (AEBP2) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	28	0.0228	1.88E-11	1.51E-9
+NFE2L1_TARGET_GENES	1910	Genes containing one or more binding sites for UniProt:Q14494 (NFE2L1) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	35	0.0183	2.09E-11	1.51E-9
+IRF5_TARGET_GENES	848	Genes containing one or more binding sites for UniProt:Q13568 (IRF5) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	23	0.0271	4.88E-11	3.08E-9
+SETD1A_TARGET_GENES	1534	Genes containing one or more binding sites for UniProt:O15047 (SETD1A) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	30	0.0196	1.45E-10	8.14E-9
+ZFP91_TARGET_GENES	1464	Genes containing one or more binding sites for UniProt:Q96JP5 (ZFP91) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	29	0.0198	2.26E-10	1.14E-8
+ZSCAN2_TARGET_GENES	922	Genes containing one or more binding sites for UniProt:Q7Z7L9 (ZSCAN2) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	23	0.0249	2.5E-10	1.15E-8
+KLF7_TARGET_GENES	936	Genes containing one or more binding sites for UniProt:O75840 (KLF7) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	23	0.0246	3.34E-10	1.41E-8
+ZNF549_TARGET_GENES	1308	Genes containing one or more binding sites for UniProt:Q6P9A3 (ZNF549) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	27	0.0206	4.12E-10	1.6E-8
+CEBPZ_TARGET_GENES	1549	Genes containing one or more binding sites for UniProt:Q03701 (CEBPZ) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	29	0.0187	8.24E-10	2.97E-8
+RYBP_TARGET_GENES	1878	Genes containing one or more binding sites for UniProt:Q8N488 (RYBP) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	32	0.0170	1.02E-9	3.43E-8
+RAG1_TARGET_GENES	1208	Genes containing one or more binding sites for UniProt:P15918 (RAG1) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	25	0.0207	1.83E-9	5.79E-8
+MYOCD_TARGET_GENES	1560	Genes containing one or more binding sites for UniProt:Q8IZQ8 (MYOCD) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	28	0.0179	4.16E-9	1.23E-7
+HOXA1_TARGET_GENES	1227	Genes containing one or more binding sites for UniProt:P49639 (HOXA1) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	24	0.0196	1.17E-8	3.27E-7
+ZNF711_TARGET_GENES	1762	Genes containing one or more binding sites for UniProt:Q9Y462 (ZNF711) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	29	0.0165	1.45E-8	3.71E-7
+NCOA2_TARGET_GENES	541	Genes containing one or more binding sites for UniProt:Q15596 (NCOA2) in their promoter regions (TSS -1000,+100 bp) as identified by GTRD version 20.06 ChIP-seq harmonization.	16	0.0296	1.47E-8	3.71E-7
+
+
+Gene/Gene Set Overlap Matrix
+
+Entrez Gene Id	Gene Symbol	Gene Description	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES	ASH1L_TARGET_GENES	ATF6_TARGET_GENES	AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES	IRF5_TARGET_GENES	SETD1A_TARGET_GENES	ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES	KLF7_TARGET_GENES	ZNF549_TARGET_GENES	CEBPZ_TARGET_GENES	RYBP_TARGET_GENES	RAG1_TARGET_GENES	MYOCD_TARGET_GENES	HOXA1_TARGET_GENES	ZNF711_TARGET_GENES	NCOA2_TARGET_GENES
+3837	KPNB1	karyopherin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6400]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES	ASH1L_TARGET_GENES		AEBP2_TARGET_GENES						KLF7_TARGET_GENES	ZNF549_TARGET_GENES	CEBPZ_TARGET_GENES						
+10237	SLC35B1	solute carrier family 35 member B1 [Source:HGNC Symbol;Acc:HGNC:20798]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES		ATF6_TARGET_GENES			IRF5_TARGET_GENES	SETD1A_TARGET_GENES		ZSCAN2_TARGET_GENES				RYBP_TARGET_GENES					NCOA2_TARGET_GENES
+126298	IRGQ	immunity related GTPase Q [Source:HGNC Symbol;Acc:HGNC:24868]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES			AEBP2_TARGET_GENES		IRF5_TARGET_GENES		ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES		ZNF549_TARGET_GENES		RYBP_TARGET_GENES			HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+79177	ZNF576	zinc finger protein 576 [Source:HGNC Symbol;Acc:HGNC:28357]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES			AEBP2_TARGET_GENES		IRF5_TARGET_GENES		ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES		ZNF549_TARGET_GENES		RYBP_TARGET_GENES			HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+100170229	SRRM5	serine/arginine repetitive matrix 5 [Source:HGNC Symbol;Acc:HGNC:37248]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES			AEBP2_TARGET_GENES		IRF5_TARGET_GENES		ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES		ZNF549_TARGET_GENES					HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+58509	CACTIN	cactin, spliceosome C complex subunit [Source:HGNC Symbol;Acc:HGNC:29938]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES				NFE2L1_TARGET_GENES	IRF5_TARGET_GENES	SETD1A_TARGET_GENES		ZSCAN2_TARGET_GENES	KLF7_TARGET_GENES	ZNF549_TARGET_GENES					HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+93627	TBCK	TBC1 domain containing kinase [Source:HGNC Symbol;Acc:HGNC:28261]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES				NFE2L1_TARGET_GENES	IRF5_TARGET_GENES		ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES					RAG1_TARGET_GENES		HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+9255	AIMP1	aminoacyl tRNA synthetase complex interacting multifunctional protein 1 [Source:HGNC Symbol;Acc:HGNC:10648]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES				NFE2L1_TARGET_GENES	IRF5_TARGET_GENES			ZSCAN2_TARGET_GENES					RAG1_TARGET_GENES		HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+6433	SFSWAP	splicing factor SWAP [Source:HGNC Symbol;Acc:HGNC:10790]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES	BARHL1_TARGET_GENES						SETD1A_TARGET_GENES		ZSCAN2_TARGET_GENES	KLF7_TARGET_GENES		CEBPZ_TARGET_GENES	RYBP_TARGET_GENES			HOXA1_TARGET_GENES	ZNF711_TARGET_GENES	
+3021	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES		ASH1L_TARGET_GENES	ATF6_TARGET_GENES		NFE2L1_TARGET_GENES						ZNF549_TARGET_GENES	CEBPZ_TARGET_GENES		RAG1_TARGET_GENES			ZNF711_TARGET_GENES	
+55588	MED29	mediator complex subunit 29 [Source:HGNC Symbol;Acc:HGNC:23074]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES		ASH1L_TARGET_GENES				IRF5_TARGET_GENES			ZSCAN2_TARGET_GENES			CEBPZ_TARGET_GENES			MYOCD_TARGET_GENES			NCOA2_TARGET_GENES
+54623	PAF1	PAF1 homolog, Paf1/RNA polymerase II complex component [Source:HGNC Symbol;Acc:HGNC:25459]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES		ASH1L_TARGET_GENES				IRF5_TARGET_GENES			ZSCAN2_TARGET_GENES			CEBPZ_TARGET_GENES			MYOCD_TARGET_GENES			
+26024	PTCD1	pentatricopeptide repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:22198]	ZSCAN5DP_TARGET_GENES	BARX2_TARGET_GENES			ATF6_TARGET_GENES							KLF7_TARGET_GENES		CEBPZ_TARGET_GENES				HOXA1_TARGET_GENES		
+805	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]	ZSCAN5DP_TARGET_GENES		BARHL1_TARGET_GENES		ATF6_TARGET_GENES							KLF7_TARGET_GENES	ZNF549_TARGET_GENES		RYBP_TARGET_GENES					
+10566	AKAP3	A-kinase anchoring protein 3 [Source:HGNC Symbol;Acc:HGNC:373]	ZSCAN5DP_TARGET_GENES		BARHL1_TARGET_GENES					IRF5_TARGET_GENES	SETD1A_TARGET_GENES											
+9759	HDAC4	histone deacetylase 4 [Source:HGNC Symbol;Acc:HGNC:14063]	ZSCAN5DP_TARGET_GENES			ASH1L_TARGET_GENES			NFE2L1_TARGET_GENES						ZNF549_TARGET_GENES	CEBPZ_TARGET_GENES					ZNF711_TARGET_GENES	
+10919	EHMT2	euchromatic histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:14129]	ZSCAN5DP_TARGET_GENES				ATF6_TARGET_GENES	AEBP2_TARGET_GENES				ZFP91_TARGET_GENES										
+401320	GARS1-DT	GARS1 divergent transcript [Source:HGNC Symbol;Acc:HGNC:48951]	ZSCAN5DP_TARGET_GENES					AEBP2_TARGET_GENES					ZSCAN2_TARGET_GENES				RYBP_TARGET_GENES	RAG1_TARGET_GENES				
+23450	SF3B3	splicing factor 3b subunit 3 [Source:HGNC Symbol;Acc:HGNC:10770]	ZSCAN5DP_TARGET_GENES						NFE2L1_TARGET_GENES	IRF5_TARGET_GENES	SETD1A_TARGET_GENES		ZSCAN2_TARGET_GENES								ZNF711_TARGET_GENES	NCOA2_TARGET_GENES
+25839	COG4	component of oligomeric golgi complex 4 [Source:HGNC Symbol;Acc:HGNC:18620]	ZSCAN5DP_TARGET_GENES						NFE2L1_TARGET_GENES	IRF5_TARGET_GENES	SETD1A_TARGET_GENES		ZSCAN2_TARGET_GENES								ZNF711_TARGET_GENES	NCOA2_TARGET_GENES
+7389	UROD	uroporphyrinogen decarboxylase [Source:HGNC Symbol;Acc:HGNC:12591]	ZSCAN5DP_TARGET_GENES						NFE2L1_TARGET_GENES	IRF5_TARGET_GENES			ZSCAN2_TARGET_GENES									
+79654	HECTD3	HECT domain E3 ubiquitin protein ligase 3 [Source:HGNC Symbol;Acc:HGNC:26117]	ZSCAN5DP_TARGET_GENES						NFE2L1_TARGET_GENES	IRF5_TARGET_GENES			ZSCAN2_TARGET_GENES									
+55367	PIDD1	p53-induced death domain protein 1 [Source:HGNC Symbol;Acc:HGNC:16491]	ZSCAN5DP_TARGET_GENES								SETD1A_TARGET_GENES			KLF7_TARGET_GENES					MYOCD_TARGET_GENES		ZNF711_TARGET_GENES	
+9911	TMCC2	transmembrane and coiled-coil domain family 2 [Source:HGNC Symbol;Acc:HGNC:24239]	ZSCAN5DP_TARGET_GENES								SETD1A_TARGET_GENES						RYBP_TARGET_GENES					
+4704	NDUFA9	NADH:ubiquinone oxidoreductase subunit A9 [Source:HGNC Symbol;Acc:HGNC:7693]	ZSCAN5DP_TARGET_GENES								SETD1A_TARGET_GENES											
+717	C2	complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]	ZSCAN5DP_TARGET_GENES									ZFP91_TARGET_GENES							MYOCD_TARGET_GENES			
+51278	IER5	immediate early response 5 [Source:HGNC Symbol;Acc:HGNC:5393]	ZSCAN5DP_TARGET_GENES									ZFP91_TARGET_GENES										
+2617	GARS1	glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162]	ZSCAN5DP_TARGET_GENES										ZSCAN2_TARGET_GENES				RYBP_TARGET_GENES	RAG1_TARGET_GENES				
+100526740	ATP5MF-PTCD1	ATP5MF-PTCD1 readthrough [Source:HGNC Symbol;Acc:HGNC:38844]	ZSCAN5DP_TARGET_GENES											KLF7_TARGET_GENES								
+9551	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]	ZSCAN5DP_TARGET_GENES											KLF7_TARGET_GENES								
+79791	FBXO31	F-box protein 31 [Source:HGNC Symbol;Acc:HGNC:16510]	ZSCAN5DP_TARGET_GENES												ZNF549_TARGET_GENES		RYBP_TARGET_GENES		MYOCD_TARGET_GENES		ZNF711_TARGET_GENES	
+81631	MAP1LC3B	microtubule associated protein 1 light chain 3 beta [Source:HGNC Symbol;Acc:HGNC:13352]	ZSCAN5DP_TARGET_GENES												ZNF549_TARGET_GENES		RYBP_TARGET_GENES		MYOCD_TARGET_GENES			
+441094	NR2F1-AS1	NR2F1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:48622]	ZSCAN5DP_TARGET_GENES														RYBP_TARGET_GENES					
+133015	PACRGL	parkin coregulated like [Source:HGNC Symbol;Acc:HGNC:28442]	ZSCAN5DP_TARGET_GENES																	HOXA1_TARGET_GENES		
+55229	PANK4	pantothenate kinase 4 (inactive) [Source:HGNC Symbol;Acc:HGNC:19366]	ZSCAN5DP_TARGET_GENES																		ZNF711_TARGET_GENES	
+85451	UNK	unk zinc finger [Source:HGNC Symbol;Acc:HGNC:29369]	ZSCAN5DP_TARGET_GENES																			
+672	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]		BARX2_TARGET_GENES	BARHL1_TARGET_GENES	ASH1L_TARGET_GENES	ATF6_TARGET_GENES									CEBPZ_TARGET_GENES	RYBP_TARGET_GENES					
+7165	TPD52L2	TPD52 like 2 [Source:HGNC Symbol;Acc:HGNC:12007]		BARX2_TARGET_GENES	BARHL1_TARGET_GENES	ASH1L_TARGET_GENES																
+1606	DGKA	diacylglycerol kinase alpha [Source:HGNC Symbol;Acc:HGNC:2849]		BARX2_TARGET_GENES	BARHL1_TARGET_GENES		ATF6_TARGET_GENES	AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES	ZFP91_TARGET_GENES						RAG1_TARGET_GENES				
+84986	ARHGAP19	Rho GTPase activating protein 19 [Source:HGNC Symbol;Acc:HGNC:23724]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES	ATF6_TARGET_GENES	AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES					ZNF711_TARGET_GENES	
+100533184	ARHGAP19-SLIT1	ARHGAP19-SLIT1 readthrough (NMD candidate) [Source:HGNC Symbol;Acc:HGNC:48348]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES	ATF6_TARGET_GENES	AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES					ZNF711_TARGET_GENES	
+54934	KANSL2	KAT8 regulatory NSL complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:26024]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES	ATF6_TARGET_GENES		NFE2L1_TARGET_GENES							CEBPZ_TARGET_GENES		RAG1_TARGET_GENES			ZNF711_TARGET_GENES	
+57459	GATAD2B	GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES		AEBP2_TARGET_GENES		IRF5_TARGET_GENES				KLF7_TARGET_GENES		CEBPZ_TARGET_GENES						
+2932	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES		AEBP2_TARGET_GENES		IRF5_TARGET_GENES								RAG1_TARGET_GENES		HOXA1_TARGET_GENES		
+79065	ATG9A	autophagy related 9A [Source:HGNC Symbol;Acc:HGNC:22408]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES		AEBP2_TARGET_GENES			SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES						
+55139	ANKZF1	ankyrin repeat and zinc finger peptidyl tRNA hydrolase 1 [Source:HGNC Symbol;Acc:HGNC:25527]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES		AEBP2_TARGET_GENES			SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES						
+4901	NRL	neural retina leucine zipper [Source:HGNC Symbol;Acc:HGNC:8002]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES		AEBP2_TARGET_GENES				ZFP91_TARGET_GENES				CEBPZ_TARGET_GENES	RYBP_TARGET_GENES		MYOCD_TARGET_GENES			
+51430	SUCO	SUN domain containing ossification factor [Source:HGNC Symbol;Acc:HGNC:1240]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES		AEBP2_TARGET_GENES							ZNF549_TARGET_GENES		RYBP_TARGET_GENES					
+27346	TMEM97	transmembrane protein 97 [Source:HGNC Symbol;Acc:HGNC:28106]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES													MYOCD_TARGET_GENES			
+157570	ESCO2	establishment of sister chromatid cohesion N-acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:27230]		BARX2_TARGET_GENES		ASH1L_TARGET_GENES																
+84305	PYM1	PYM homolog 1, exon junction complex associated factor [Source:HGNC Symbol;Acc:HGNC:30258]		BARX2_TARGET_GENES			ATF6_TARGET_GENES		NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES	ZFP91_TARGET_GENES										
+10352	WARS2	tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]		BARX2_TARGET_GENES			ATF6_TARGET_GENES		NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES									HOXA1_TARGET_GENES		
+10733	PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]		BARX2_TARGET_GENES			ATF6_TARGET_GENES															
+51434	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]		BARX2_TARGET_GENES				AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES	IRF5_TARGET_GENES	SETD1A_TARGET_GENES	ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES									
+51649	MRPS23	mitochondrial ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:14509]		BARX2_TARGET_GENES							SETD1A_TARGET_GENES				ZNF549_TARGET_GENES	CEBPZ_TARGET_GENES			MYOCD_TARGET_GENES			
+3018	H2BC3	H2B clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4751]		BARX2_TARGET_GENES									ZSCAN2_TARGET_GENES					RAG1_TARGET_GENES				
+79955	PDZD7	PDZ domain containing 7 [Source:HGNC Symbol;Acc:HGNC:26257]		BARX2_TARGET_GENES													RYBP_TARGET_GENES		MYOCD_TARGET_GENES			
+64326	COP1	COP1 E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:17440]		BARX2_TARGET_GENES																HOXA1_TARGET_GENES	ZNF711_TARGET_GENES	
+2677	GGCX	gamma-glutamyl carboxylase [Source:HGNC Symbol;Acc:HGNC:4247]		BARX2_TARGET_GENES																HOXA1_TARGET_GENES		NCOA2_TARGET_GENES
+8673	VAMP8	vesicle associated membrane protein 8 [Source:HGNC Symbol;Acc:HGNC:12647]		BARX2_TARGET_GENES																HOXA1_TARGET_GENES		
+81855	SFXN3	sideroflexin 3 [Source:HGNC Symbol;Acc:HGNC:16087]		BARX2_TARGET_GENES																		
+80344	DCAF11	DDB1 and CUL4 associated factor 11 [Source:HGNC Symbol;Acc:HGNC:20258]			BARHL1_TARGET_GENES	ASH1L_TARGET_GENES		AEBP2_TARGET_GENES				ZFP91_TARGET_GENES	ZSCAN2_TARGET_GENES			CEBPZ_TARGET_GENES	RYBP_TARGET_GENES					NCOA2_TARGET_GENES
+55660	PRPF40A	pre-mRNA processing factor 40 homolog A [Source:HGNC Symbol;Acc:HGNC:16463]			BARHL1_TARGET_GENES	ASH1L_TARGET_GENES			NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES				HOXA1_TARGET_GENES		
+151188	ARL6IP6	ADP ribosylation factor like GTPase 6 interacting protein 6 [Source:HGNC Symbol;Acc:HGNC:24048]			BARHL1_TARGET_GENES	ASH1L_TARGET_GENES			NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES				HOXA1_TARGET_GENES		
+1717	DHCR7	7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860]			BARHL1_TARGET_GENES	ASH1L_TARGET_GENES										CEBPZ_TARGET_GENES						
+641649	TMEM91	transmembrane protein 91 [Source:HGNC Symbol;Acc:HGNC:32393]			BARHL1_TARGET_GENES		ATF6_TARGET_GENES			IRF5_TARGET_GENES		ZFP91_TARGET_GENES			ZNF549_TARGET_GENES							
+132	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]			BARHL1_TARGET_GENES		ATF6_TARGET_GENES			IRF5_TARGET_GENES			ZSCAN2_TARGET_GENES		ZNF549_TARGET_GENES		RYBP_TARGET_GENES					NCOA2_TARGET_GENES
+118426	BORCS5	BLOC-1 related complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:17950]			BARHL1_TARGET_GENES		ATF6_TARGET_GENES					ZFP91_TARGET_GENES		KLF7_TARGET_GENES	ZNF549_TARGET_GENES			RAG1_TARGET_GENES				
+3337	DNAJB1	DnaJ heat shock protein family (Hsp40) member B1 [Source:HGNC Symbol;Acc:HGNC:5270]			BARHL1_TARGET_GENES		ATF6_TARGET_GENES					ZFP91_TARGET_GENES						RAG1_TARGET_GENES				
+503693	LOH12CR2	loss of heterozygosity on chromosome 12, region 2 [Source:HGNC Symbol;Acc:HGNC:26524]			BARHL1_TARGET_GENES		ATF6_TARGET_GENES							KLF7_TARGET_GENES	ZNF549_TARGET_GENES			RAG1_TARGET_GENES				
+113251	LARP4	La ribonucleoprotein 4 [Source:HGNC Symbol;Acc:HGNC:24320]			BARHL1_TARGET_GENES			AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES						RYBP_TARGET_GENES					
+58506	SCAF1	SR-related CTD associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30403]			BARHL1_TARGET_GENES			AEBP2_TARGET_GENES			SETD1A_TARGET_GENES			KLF7_TARGET_GENES						HOXA1_TARGET_GENES	ZNF711_TARGET_GENES	
+84364	ARFGAP2	ADP ribosylation factor GTPase activating protein 2 [Source:HGNC Symbol;Acc:HGNC:13504]			BARHL1_TARGET_GENES				NFE2L1_TARGET_GENES													
+23165	NUP205	nucleoporin 205 [Source:HGNC Symbol;Acc:HGNC:18658]			BARHL1_TARGET_GENES					IRF5_TARGET_GENES	SETD1A_TARGET_GENES		ZSCAN2_TARGET_GENES									NCOA2_TARGET_GENES
+10230	NBR2	neighbor of BRCA1 lncRNA 2 [Source:HGNC Symbol;Acc:HGNC:20691]			BARHL1_TARGET_GENES							ZFP91_TARGET_GENES										
+284086	NEK8	NIMA related kinase 8 [Source:HGNC Symbol;Acc:HGNC:13387]			BARHL1_TARGET_GENES																	
+116238	TLCD1	TLC domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25177]			BARHL1_TARGET_GENES																	
+103	ADAR	adenosine deaminase RNA specific [Source:HGNC Symbol;Acc:HGNC:225]			BARHL1_TARGET_GENES																	
+7818	DAP3	death associated protein 3 [Source:HGNC Symbol;Acc:HGNC:2673]				ASH1L_TARGET_GENES		AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES							RAG1_TARGET_GENES		HOXA1_TARGET_GENES		
+55249	YY1AP1	YY1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:30935]				ASH1L_TARGET_GENES		AEBP2_TARGET_GENES	NFE2L1_TARGET_GENES		SETD1A_TARGET_GENES							RAG1_TARGET_GENES		HOXA1_TARGET_GENES		
+79842	ZBTB3	zinc finger and BTB domain containing 3 [Source:HGNC Symbol;Acc:HGNC:22918]				ASH1L_TARGET_GENES		AEBP2_TARGET_GENES			SETD1A_TARGET_GENES					CEBPZ_TARGET_GENES						
+55037	PTCD3	pentatricopeptide repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:24717]				ASH1L_TARGET_GENES		AEBP2_TARGET_GENES											MYOCD_TARGET_GENES		ZNF711_TARGET_GENES	
+25885	POLR1A	RNA polymerase I subunit A [Source:HGNC Symbol;Acc:HGNC:17264]				ASH1L_TARGET_GENES		AEBP2_TARGET_GENES											MYOCD_TARGET_GENES			
+1161	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit [Source:HGNC Symbol;Acc:HGNC:3439]				ASH1L_TARGET_GENES			NFE2L1_TARGET_GENES											HOXA1_TARGET_GENES		
+91942	NDUFAF2	NADH:ubiquinone oxidoreductase complex assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:28086]				ASH1L_TARGET_GENES			NFE2L1_TARGET_GENES													
+11113	CIT	citron rho-interacting serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1985]				ASH1L_TARGET_GENES				IRF5_TARGET_GENES					ZNF549_TARGET_GENES	CEBPZ_TARGET_GENES						
+11078	TRIOBP	TRIO and F-actin binding protein [Source:HGNC Symbol;Acc:HGNC:17009]				ASH1L_TARGET_GENES										CEBPZ_TARGET_GENES						
+9639	ARHGEF10	Rho guanine nucleotide exchange factor 10 [Source:HGNC Symbol;Acc:HGNC:14103]				ASH1L_TARGET_GENES																
+80863	PRRT1	proline rich transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:13943]					ATF6_TARGET_GENES	AEBP2_TARGET_GENES				ZFP91_TARGET_GENES										
+9374	PPT2	palmitoyl-protein thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:9326]					ATF6_TARGET_GENES	AEBP2_TARGET_GENES														
+100532746	PPT2-EGFL8	PPT2-EGFL8 readthrough (NMD candidate) [Source:HGNC Symbol;Acc:HGNC:48343]					ATF6_TARGET_GENES	AEBP2_TARGET_GENES														
+51426	POLK	DNA polymerase kappa [Source:HGNC Symbol;Acc:HGNC:9183]					ATF6_TARGET_GENES				SETD1A_TARGET_GENES			KLF7_TARGET_GENES			RYBP_TARGET_GENES	RAG1_TARGET_GENES			ZNF711_TARGET_GENES	
+10087	CERT1	ceramide transporter 1 [Source:HGNC Symbol;Acc:HGNC:2205]					ATF6_TARGET_GENES				SETD1A_TARGET_GENES			KLF7_TARGET_GENES			RYBP_TARGET_GENES	RAG1_TARGET_GENES			ZNF711_TARGET_GENES	
+9572	NR1D1	nuclear receptor subfamily 1 group D member 1 [Source:HGNC Symbol;Acc:HGNC:7962]					ATF6_TARGET_GENES						ZSCAN2_TARGET_GENES									
+125476	INO80C	INO80 complex subunit C [Source:HGNC Symbol;Acc:HGNC:26994]					ATF6_TARGET_GENES							KLF7_TARGET_GENES	ZNF549_TARGET_GENES							
+8831	SYNGAP1	synaptic Ras GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:11497]					ATF6_TARGET_GENES										RYBP_TARGET_GENES					
+9524	TECR	trans-2,3-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:4551]					ATF6_TARGET_GENES											RAG1_TARGET_GENES				
+54487	DGCR8	DGCR8 microprocessor complex subunit [Source:HGNC Symbol;Acc:HGNC:2847]						AEBP2_TARGET_GENES								CEBPZ_TARGET_GENES	RYBP_TARGET_GENES				ZNF711_TARGET_GENES	
+8407	TAGLN2	transgelin 2 [Source:HGNC Symbol;Acc:HGNC:11554]							NFE2L1_TARGET_GENES			ZFP91_TARGET_GENES		KLF7_TARGET_GENES			RYBP_TARGET_GENES					
+22870	PPP6R1	protein phosphatase 6 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:29195]							NFE2L1_TARGET_GENES						ZNF549_TARGET_GENES		RYBP_TARGET_GENES		MYOCD_TARGET_GENES			
+649446	DLGAP1-AS1	DLGAP1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:31676]							NFE2L1_TARGET_GENES						ZNF549_TARGET_GENES							
+399665	EEIG1	estrogen-induced osteoclastogenesis regulator 1 [Source:HGNC Symbol;Acc:HGNC:31419]							NFE2L1_TARGET_GENES							CEBPZ_TARGET_GENES		RAG1_TARGET_GENES	MYOCD_TARGET_GENES			
+55246	CCDC25	coiled-coil domain containing 25 [Source:HGNC Symbol;Acc:HGNC:25591]							NFE2L1_TARGET_GENES													
+106481583	RNU6-1276P	RNA, U6 small nuclear 1276, pseudogene [Source:HGNC Symbol;Acc:HGNC:48239]							NFE2L1_TARGET_GENES													
+467	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]							NFE2L1_TARGET_GENES													
+378	ARF4	ADP ribosylation factor 4 [Source:HGNC Symbol;Acc:HGNC:655]							NFE2L1_TARGET_GENES													
+7283	TUBG1	tubulin gamma 1 [Source:HGNC Symbol;Acc:HGNC:12417]							NFE2L1_TARGET_GENES													
+162427	RETREG3	reticulophagy regulator family member 3 [Source:HGNC Symbol;Acc:HGNC:27258]							NFE2L1_TARGET_GENES													
+84883	AIFM2	apoptosis inducing factor mitochondria associated 2 [Source:HGNC Symbol;Acc:HGNC:21411]							NFE2L1_TARGET_GENES													
+7040	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]								IRF5_TARGET_GENES												
+80727	TTYH3	tweety family member 3 [Source:HGNC Symbol;Acc:HGNC:22222]								IRF5_TARGET_GENES												
+10985	GCN1	GCN1 activator of EIF2AK4 [Source:HGNC Symbol;Acc:HGNC:4199]									SETD1A_TARGET_GENES	ZFP91_TARGET_GENES							MYOCD_TARGET_GENES			
+6181	RPLP2	ribosomal protein lateral stalk subunit P2 [Source:HGNC Symbol;Acc:HGNC:10377]									SETD1A_TARGET_GENES			KLF7_TARGET_GENES					MYOCD_TARGET_GENES		ZNF711_TARGET_GENES	
+11099	PTPN21	protein tyrosine phosphatase non-receptor type 21 [Source:HGNC Symbol;Acc:HGNC:9651]										ZFP91_TARGET_GENES		KLF7_TARGET_GENES			RYBP_TARGET_GENES			HOXA1_TARGET_GENES	ZNF711_TARGET_GENES	
+64118	DUS1L	dihydrouridine synthase 1 like [Source:HGNC Symbol;Acc:HGNC:30086]										ZFP91_TARGET_GENES		KLF7_TARGET_GENES							ZNF711_TARGET_GENES	NCOA2_TARGET_GENES
+2550	GABBR1	gamma-aminobutyric acid type B receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:4070]										ZFP91_TARGET_GENES		KLF7_TARGET_GENES								
+27113	BBC3	BCL2 binding component 3 [Source:HGNC Symbol;Acc:HGNC:17868]										ZFP91_TARGET_GENES			ZNF549_TARGET_GENES							
+10927	SPIN1	spindlin 1 [Source:HGNC Symbol;Acc:HGNC:11243]										ZFP91_TARGET_GENES					RYBP_TARGET_GENES					
+54910	SEMA4C	semaphorin 4C [Source:HGNC Symbol;Acc:HGNC:10731]										ZFP91_TARGET_GENES									ZNF711_TARGET_GENES	
+192669	AGO3	argonaute RISC catalytic component 3 [Source:HGNC Symbol;Acc:HGNC:18421]										ZFP91_TARGET_GENES										
+284346	ZNF575	zinc finger protein 575 [Source:HGNC Symbol;Acc:HGNC:27606]										ZFP91_TARGET_GENES										
+6598	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]										ZFP91_TARGET_GENES										
+221545	C6orf136	chromosome 6 open reading frame 136 [Source:HGNC Symbol;Acc:HGNC:21301]										ZFP91_TARGET_GENES										
+3006	H1-2	H1.2 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4716]											ZSCAN2_TARGET_GENES			CEBPZ_TARGET_GENES		RAG1_TARGET_GENES				
+5481	PPID	peptidylprolyl isomerase D [Source:HGNC Symbol;Acc:HGNC:9257]												KLF7_TARGET_GENES			RYBP_TARGET_GENES					
+221908	PPP1R35	protein phosphatase 1 regulatory subunit 35 [Source:HGNC Symbol;Acc:HGNC:28320]												KLF7_TARGET_GENES				RAG1_TARGET_GENES			ZNF711_TARGET_GENES	
+10019	SH2B3	SH2B adaptor protein 3 [Source:HGNC Symbol;Acc:HGNC:29605]												KLF7_TARGET_GENES								
+3801	KIFC3	kinesin family member C3 [Source:HGNC Symbol;Acc:HGNC:6326]													ZNF549_TARGET_GENES		RYBP_TARGET_GENES					
+100885848	PTGES3L	prostaglandin E synthase 3 like [Source:HGNC Symbol;Acc:HGNC:43943]													ZNF549_TARGET_GENES							
+100885850	PTGES3L-AARSD1	PTGES3L-AARSD1 readthrough [Source:HGNC Symbol;Acc:HGNC:43946]													ZNF549_TARGET_GENES							
+5287	PIK3C2B	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [Source:HGNC Symbol;Acc:HGNC:8972]													ZNF549_TARGET_GENES							
+23230	VPS13A	vacuolar protein sorting 13 homolog A [Source:HGNC Symbol;Acc:HGNC:1908]													ZNF549_TARGET_GENES							
+106480731	C6orf47-AS1	C6orf47 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:39767]													ZNF549_TARGET_GENES							
+25851	TECPR1	tectonin beta-propeller repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:22214]														CEBPZ_TARGET_GENES						
+25798	BRI3	brain protein I3 [Source:HGNC Symbol;Acc:HGNC:1109]														CEBPZ_TARGET_GENES						
+10520	ZNF211	zinc finger protein 211 [Source:HGNC Symbol;Acc:HGNC:13003]														CEBPZ_TARGET_GENES						
+51004	COQ6	coenzyme Q6, monooxygenase [Source:HGNC Symbol;Acc:HGNC:20233]															RYBP_TARGET_GENES		MYOCD_TARGET_GENES	HOXA1_TARGET_GENES		
+56853	CELF4	CUGBP Elav-like family member 4 [Source:HGNC Symbol;Acc:HGNC:14015]															RYBP_TARGET_GENES		MYOCD_TARGET_GENES			
+92211	CDHR1	cadherin related family member 1 [Source:HGNC Symbol;Acc:HGNC:14550]															RYBP_TARGET_GENES					
+65108	MARCKSL1	MARCKS like 1 [Source:HGNC Symbol;Acc:HGNC:7142]															RYBP_TARGET_GENES					
+8204	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]																RAG1_TARGET_GENES		HOXA1_TARGET_GENES		
+100500841	MIR3678	microRNA 3678 [Source:HGNC Symbol;Acc:HGNC:38891]																RAG1_TARGET_GENES				
+10098	TSPAN5	tetraspanin 5 [Source:HGNC Symbol;Acc:HGNC:17753]																RAG1_TARGET_GENES				
+1117	CHI3L2	chitinase 3 like 2 [Source:HGNC Symbol;Acc:HGNC:1933]																RAG1_TARGET_GENES				
+79648	MCPH1	microcephalin 1 [Source:HGNC Symbol;Acc:HGNC:6954]																RAG1_TARGET_GENES				
+1487	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2494]																	MYOCD_TARGET_GENES		ZNF711_TARGET_GENES	
+8444	DYRK3	dual specificity tyrosine phosphorylation regulated kinase 3 [Source:HGNC Symbol;Acc:HGNC:3094]																	MYOCD_TARGET_GENES			
+145483	FAM161B	FAM161 centrosomal protein B [Source:HGNC Symbol;Acc:HGNC:19854]																	MYOCD_TARGET_GENES			
+9229	DLGAP1	DLG associated protein 1 [Source:HGNC Symbol;Acc:HGNC:2905]																	MYOCD_TARGET_GENES			
+203190	LGI3	leucine rich repeat LGI family member 3 [Source:HGNC Symbol;Acc:HGNC:18711]																	MYOCD_TARGET_GENES			
+79961	DENND2D	DENN domain containing 2D [Source:HGNC Symbol;Acc:HGNC:26192]																	MYOCD_TARGET_GENES			
+26112	CCDC69	coiled-coil domain containing 69 [Source:HGNC Symbol;Acc:HGNC:24487]																	MYOCD_TARGET_GENES			
+26260	FBXO25	F-box protein 25 [Source:HGNC Symbol;Acc:HGNC:13596]																	MYOCD_TARGET_GENES			
+100286938	VPS13A-AS1	VPS13A antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:44167]																	MYOCD_TARGET_GENES			
+6440	SFTPC	surfactant protein C [Source:HGNC Symbol;Acc:HGNC:10802]																	MYOCD_TARGET_GENES			
+10818	FRS2	fibroblast growth factor receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:16971]																		HOXA1_TARGET_GENES	ZNF711_TARGET_GENES	
+55840	EAF2	ELL associated factor 2 [Source:HGNC Symbol;Acc:HGNC:23115]																			ZNF711_TARGET_GENES	
+9657	IQCB1	IQ motif containing B1 [Source:HGNC Symbol;Acc:HGNC:28949]																			ZNF711_TARGET_GENES	
+2039	DMTN	dematin actin binding protein [Source:HGNC Symbol;Acc:HGNC:3382]																			ZNF711_TARGET_GENES	
+57380	MRS2	magnesium transporter MRS2 [Source:HGNC Symbol;Acc:HGNC:13785]																			ZNF711_TARGET_GENES	
+5828	PEX2	peroxisomal biogenesis factor 2 [Source:HGNC Symbol;Acc:HGNC:9717]																			ZNF711_TARGET_GENES	
+100101267	POM121C	POM121 transmembrane nucleoporin C [Source:HGNC Symbol;Acc:HGNC:34005]																				NCOA2_TARGET_GENES
+3909	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]																				
+83463	MXD3	MAX dimerization protein 3 [Source:HGNC Symbol;Acc:HGNC:14008]																				
+6484	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]																				
+2885	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]																				
+92949	ADAMTSL1	ADAMTS like 1 [Source:HGNC Symbol;Acc:HGNC:14632]																				
+146923	RUNDC1	RUN domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25418]																				
+8899	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]																				
+79690	GAL3ST4	galactose-3-O-sulfotransferase 4 [Source:HGNC Symbol;Acc:HGNC:24145]																				
+11074	TRIM31	tripartite motif containing 31 [Source:HGNC Symbol;Acc:HGNC:16289]																				
+166647	ADGRA3	adhesion G protein-coupled receptor A3 [Source:HGNC Symbol;Acc:HGNC:13839]																				
+7167	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]																				
+57522	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:17382]																				
+65977	PLEKHA3	pleckstrin homology domain containing A3 [Source:HGNC Symbol;Acc:HGNC:14338]																				
+2760	GM2A	ganglioside GM2 activator [Source:HGNC Symbol;Acc:HGNC:4367]																				
+8527	DGKD	diacylglycerol kinase delta [Source:HGNC Symbol;Acc:HGNC:2851]																				
+57827	C6orf47	chromosome 6 open reading frame 47 [Source:HGNC Symbol;Acc:HGNC:19076]																				
+113612	CYP2U1	cytochrome P450 family 2 subfamily U member 1 [Source:HGNC Symbol;Acc:HGNC:20582]																				
+51299	NRN1	neuritin 1 [Source:HGNC Symbol;Acc:HGNC:17972]																				
+100422899	MIR3190	microRNA 3190 [Source:HGNC Symbol;Acc:HGNC:38190]																				
+130026	ICA1L	islet cell autoantigen 1 like [Source:HGNC Symbol;Acc:HGNC:14442]																				
+9064	MAP3K6	mitogen-activated protein kinase kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6858]																				
+867	CBL	Cbl proto-oncogene [Source:HGNC Symbol;Acc:HGNC:1541]																				
+51719	CAB39	calcium binding protein 39 [Source:HGNC Symbol;Acc:HGNC:20292]																				
+54762	GRAMD1C	GRAM domain containing 1C [Source:HGNC Symbol;Acc:HGNC:25252]																				
+27163	NAAA	N-acylethanolamine acid amidase [Source:HGNC Symbol;Acc:HGNC:736]																				
+84501	SPIRE2	spire type actin nucleation factor 2 [Source:HGNC Symbol;Acc:HGNC:30623]																				
+56063	TMEM234	transmembrane protein 234 [Source:HGNC Symbol;Acc:HGNC:28837]																				
+8668	EIF3I	eukaryotic translation initiation factor 3 subunit I [Source:HGNC Symbol;Acc:HGNC:3272]																				
+55191	NADSYN1	NAD synthetase 1 [Source:HGNC Symbol;Acc:HGNC:29832]																				
+25805	BAMBI	BMP and activin membrane bound inhibitor [Source:HGNC Symbol;Acc:HGNC:30251]																				
+5580	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]																				
+1727	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]																				
+5697	PYY	peptide YY [Source:HGNC Symbol;Acc:HGNC:9748]																				
+7804	LRP8	LDL receptor related protein 8 [Source:HGNC Symbol;Acc:HGNC:6700]																				
+10076	PTPRU	protein tyrosine phosphatase receptor type U [Source:HGNC Symbol;Acc:HGNC:9683]																				
+864	RUNX3	RUNX family transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]																				
+2668	GDNF	glial cell derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:4232]																				
+80351	TNKS2	tankyrase 2 [Source:HGNC Symbol;Acc:HGNC:15677]																				
+4487	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]																				
+64850	ETNPPL	ethanolamine-phosphate phospho-lyase [Source:HGNC Symbol;Acc:HGNC:14404]																				
+100507633	TNKS2-DT	TNKS2 divergent transcript [Source:HGNC Symbol;Acc:HGNC:45173]																				
+363	AQP6	aquaporin 6 [Source:HGNC Symbol;Acc:HGNC:639]																				
+162417	NAGS	N-acetylglutamate synthase [Source:HGNC Symbol;Acc:HGNC:17996]																				
+284085	KRT18P55	keratin 18 pseudogene 55 [Source:HGNC Symbol;Acc:HGNC:26874]																				
+4838	NODAL	nodal growth differentiation factor [Source:HGNC Symbol;Acc:HGNC:7865]																				
+100505385	IQCJ-SCHIP1	IQCJ-SCHIP1 readthrough [Source:HGNC Symbol;Acc:HGNC:38842]																				
+100616282	MIR4738	microRNA 4738 [Source:HGNC Symbol;Acc:HGNC:41679]																				
+284119	CAVIN1	caveolae associated protein 1 [Source:HGNC Symbol;Acc:HGNC:9688]																				

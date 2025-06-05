@@ -1,0 +1,245 @@
+
+Overlap Results
+
+Collection(s):	CP:REACTOME
+# overlaps shown:	20
+# genesets in collections:	1736
+# genes in comparison (n):	210
+# genes in universe (N):	42577
+
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+REACTOME_CELLULAR_RESPONSES_TO_STIMULI	828	Cellular responses to stimuli	18	0.0217	1.89E-7	3.02E-4
+REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION	1475	Post-translational protein modification	24	0.0163	3.48E-7	3.02E-4
+REACTOME_RUNX3_REGULATES_P14_ARF	10	RUNX3 regulates p14-ARF	3	0.3000	1.38E-5	5.84E-3
+REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	105	Positive epigenetic regulation of rRNA expression	6	0.0571	1.44E-5	5.84E-3
+REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION	110	RNA Polymerase I Transcription	6	0.0545	1.87E-5	5.84E-3
+REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	1387	RNA Polymerase II Transcription	20	0.0144	2.02E-5	5.84E-3
+REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION	254	Epigenetic regulation of gene expression	8	0.0315	4.18E-5	1.01E-2
+REACTOME_CELL_CYCLE	694	Cell Cycle	13	0.0187	4.65E-5	1.01E-2
+REACTOME_SIGNALING_BY_SCF_KIT	43	Signaling by SCF-KIT	4	0.0930	6.1E-5	1.1E-2
+REACTOME_REGULATION_OF_KIT_SIGNALING	16	Regulation of KIT signaling	3	0.1875	6.32E-5	1.1E-2
+REACTOME_GENE_SILENCING_BY_RNA	139	Gene Silencing by RNA	6	0.0432	6.98E-5	1.1E-2
+REACTOME_TRANSLATION	295	Translation	8	0.0271	1.18E-4	1.61E-2
+REACTOME_CELL_CYCLE_MITOTIC	561	Cell Cycle, Mitotic	11	0.0196	1.2E-4	1.61E-2
+REACTOME_M_PHASE	417	M Phase	9	0.0216	2.49E-4	3.08E-2
+REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS	27	Effects of PIP2 hydrolysis	3	0.1111	3.17E-4	3.67E-2
+REACTOME_SUMOYLATION	189	SUMOylation	6	0.0317	3.7E-4	4.01E-2
+REACTOME_NEGATIVE_REGULATION_OF_FGFR3_SIGNALING	29	Negative regulation of FGFR3 signaling	3	0.1034	3.93E-4	4.01E-2
+REACTOME_METABOLISM_OF_LIPIDS	757	Metabolism of lipids	12	0.0159	4.18E-4	4.03E-2
+REACTOME_CELLULAR_SENESCENCE	197	Cellular Senescence	6	0.0305	4.61E-4	4.06E-2
+REACTOME_NEGATIVE_REGULATION_OF_FGFR4_SIGNALING	31	Negative regulation of FGFR4 signaling	3	0.0968	4.8E-4	4.06E-2
+
+
+Gene/Gene Set Overlap Matrix
+
+Entrez Gene Id	Gene Symbol	Gene Description	REACTOME_CELLULAR_RESPONSES_TO_STIMULI	REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION	REACTOME_RUNX3_REGULATES_P14_ARF	REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION	REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION	REACTOME_CELL_CYCLE	REACTOME_SIGNALING_BY_SCF_KIT	REACTOME_REGULATION_OF_KIT_SIGNALING	REACTOME_GENE_SILENCING_BY_RNA	REACTOME_TRANSLATION	REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE	REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS	REACTOME_SUMOYLATION	REACTOME_NEGATIVE_REGULATION_OF_FGFR3_SIGNALING	REACTOME_METABOLISM_OF_LIPIDS	REACTOME_CELLULAR_SENESCENCE	REACTOME_NEGATIVE_REGULATION_OF_FGFR4_SIGNALING
+3018	H2BC3	H2B clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4751]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI	REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION		REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION	REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION	REACTOME_CELL_CYCLE			REACTOME_GENE_SILENCING_BY_RNA		REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE					REACTOME_CELLULAR_SENESCENCE	
+672	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI	REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION				REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION		REACTOME_CELL_CYCLE								REACTOME_SUMOYLATION				
+23165	NUP205	nucleoporin 205 [Source:HGNC Symbol;Acc:HGNC:18658]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI	REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION						REACTOME_CELL_CYCLE			REACTOME_GENE_SILENCING_BY_RNA		REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE		REACTOME_SUMOYLATION				
+100101267	POM121C	POM121 transmembrane nucleoporin C [Source:HGNC Symbol;Acc:HGNC:34005]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI	REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION						REACTOME_CELL_CYCLE			REACTOME_GENE_SILENCING_BY_RNA		REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE		REACTOME_SUMOYLATION				
+8204	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI	REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION														REACTOME_SUMOYLATION				
+3021	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI			REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION	REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION	REACTOME_CELL_CYCLE			REACTOME_GENE_SILENCING_BY_RNA		REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE					REACTOME_CELLULAR_SENESCENCE	
+10919	EHMT2	euchromatic histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:14129]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI			REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION	REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION												REACTOME_CELLULAR_SENESCENCE	
+2932	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI			REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION		REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION	REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC							
+51434	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI					REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION		REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE					REACTOME_CELLULAR_SENESCENCE	
+192669	AGO3	argonaute RISC catalytic component 3 [Source:HGNC Symbol;Acc:HGNC:18421]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI					REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION					REACTOME_GENE_SILENCING_BY_RNA								REACTOME_CELLULAR_SENESCENCE	
+9572	NR1D1	nuclear receptor subfamily 1 group D member 1 [Source:HGNC Symbol;Acc:HGNC:7962]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI					REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION												REACTOME_METABOLISM_OF_LIPIDS		
+6181	RPLP2	ribosomal protein lateral stalk subunit P2 [Source:HGNC Symbol;Acc:HGNC:10377]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI											REACTOME_TRANSLATION								
+5580	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI														REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS					
+3006	H1-2	H1.2 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4716]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI																		REACTOME_CELLULAR_SENESCENCE	
+3337	DNAJB1	DnaJ heat shock protein family (Hsp40) member B1 [Source:HGNC Symbol;Acc:HGNC:5270]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI																			
+81631	MAP1LC3B	microtubule associated protein 1 light chain 3 beta [Source:HGNC Symbol;Acc:HGNC:13352]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI																			
+467	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI																			
+10985	GCN1	GCN1 activator of EIF2AK4 [Source:HGNC Symbol;Acc:HGNC:4199]	REACTOME_CELLULAR_RESPONSES_TO_STIMULI																			
+9759	HDAC4	histone deacetylase 4 [Source:HGNC Symbol;Acc:HGNC:14063]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION	REACTOME_RUNX3_REGULATES_P14_ARF			REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION										REACTOME_SUMOYLATION				
+7040	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION	REACTOME_RUNX3_REGULATES_P14_ARF			REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+54623	PAF1	PAF1 homolog, Paf1/RNA polymerase II complex component [Source:HGNC Symbol;Acc:HGNC:25459]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION				REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+64326	COP1	COP1 E3 ubiquitin ligase [Source:HGNC Symbol;Acc:HGNC:17440]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION						REACTOME_CELL_CYCLE												
+1487	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2494]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION														REACTOME_SUMOYLATION				
+80351	TNKS2	tankyrase 2 [Source:HGNC Symbol;Acc:HGNC:15677]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+84364	ARFGAP2	ADP ribosylation factor GTPase activating protein 2 [Source:HGNC Symbol;Acc:HGNC:13504]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+6484	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+378	ARF4	ADP ribosylation factor 4 [Source:HGNC Symbol;Acc:HGNC:655]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+25839	COG4	component of oligomeric golgi complex 4 [Source:HGNC Symbol;Acc:HGNC:18620]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+22870	PPP6R1	protein phosphatase 6 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:29195]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+5828	PEX2	peroxisomal biogenesis factor 2 [Source:HGNC Symbol;Acc:HGNC:9717]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+1161	ERCC8	ERCC excision repair 8, CSA ubiquitin ligase complex subunit [Source:HGNC Symbol;Acc:HGNC:3439]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+79791	FBXO31	F-box protein 31 [Source:HGNC Symbol;Acc:HGNC:16510]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+80344	DCAF11	DDB1 and CUL4 associated factor 11 [Source:HGNC Symbol;Acc:HGNC:20258]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+125476	INO80C	INO80 complex subunit C [Source:HGNC Symbol;Acc:HGNC:26994]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+92949	ADAMTSL1	ADAMTS like 1 [Source:HGNC Symbol;Acc:HGNC:14632]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+51299	NRN1	neuritin 1 [Source:HGNC Symbol;Acc:HGNC:17972]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+2677	GGCX	gamma-glutamyl carboxylase [Source:HGNC Symbol;Acc:HGNC:4247]		REACTOME_POST_TRANSLATIONAL_PROTEIN_MODIFICATION																		
+864	RUNX3	RUNX family transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]			REACTOME_RUNX3_REGULATES_P14_ARF			REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+57459	GATAD2B	GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]				REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION	REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION													
+25885	POLR1A	RNA polymerase I subunit A [Source:HGNC Symbol;Acc:HGNC:17264]				REACTOME_POSITIVE_EPIGENETIC_REGULATION_OF_RRNA_EXPRESSION	REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION		REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION													
+284119	CAVIN1	caveolae associated protein 1 [Source:HGNC Symbol;Acc:HGNC:9688]					REACTOME_RNA_POLYMERASE_I_TRANSCRIPTION															
+6598	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION	REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION													
+54487	DGCR8	DGCR8 microprocessor complex subunit [Source:HGNC Symbol;Acc:HGNC:2847]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION					REACTOME_GENE_SILENCING_BY_RNA									
+27113	BBC3	BCL2 binding component 3 [Source:HGNC Symbol;Acc:HGNC:17868]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+84883	AIFM2	apoptosis inducing factor mitochondria associated 2 [Source:HGNC Symbol;Acc:HGNC:21411]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+55367	PIDD1	p53-induced death domain protein 1 [Source:HGNC Symbol;Acc:HGNC:16491]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+55840	EAF2	ELL associated factor 2 [Source:HGNC Symbol;Acc:HGNC:23115]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+10520	ZNF211	zinc finger protein 211 [Source:HGNC Symbol;Acc:HGNC:13003]						REACTOME_RNA_POLYMERASE_II_TRANSCRIPTION														
+54934	KANSL2	KAT8 regulatory NSL complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:26024]							REACTOME_EPIGENETIC_REGULATION_OF_GENE_EXPRESSION													
+3837	KPNB1	karyopherin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6400]								REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE				REACTOME_METABOLISM_OF_LIPIDS		
+79648	MCPH1	microcephalin 1 [Source:HGNC Symbol;Acc:HGNC:6954]								REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE						
+10733	PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]								REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE						
+7283	TUBG1	tubulin gamma 1 [Source:HGNC Symbol;Acc:HGNC:12417]								REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC	REACTOME_M_PHASE						
+157570	ESCO2	establishment of sister chromatid cohesion N-acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:27230]								REACTOME_CELL_CYCLE					REACTOME_CELL_CYCLE_MITOTIC							
+2885	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]									REACTOME_SIGNALING_BY_SCF_KIT	REACTOME_REGULATION_OF_KIT_SIGNALING							REACTOME_NEGATIVE_REGULATION_OF_FGFR3_SIGNALING			REACTOME_NEGATIVE_REGULATION_OF_FGFR4_SIGNALING
+867	CBL	Cbl proto-oncogene [Source:HGNC Symbol;Acc:HGNC:1541]									REACTOME_SIGNALING_BY_SCF_KIT	REACTOME_REGULATION_OF_KIT_SIGNALING							REACTOME_NEGATIVE_REGULATION_OF_FGFR3_SIGNALING			REACTOME_NEGATIVE_REGULATION_OF_FGFR4_SIGNALING
+10019	SH2B3	SH2B adaptor protein 3 [Source:HGNC Symbol;Acc:HGNC:29605]									REACTOME_SIGNALING_BY_SCF_KIT	REACTOME_REGULATION_OF_KIT_SIGNALING										
+10076	PTPRU	protein tyrosine phosphatase receptor type U [Source:HGNC Symbol;Acc:HGNC:9683]									REACTOME_SIGNALING_BY_SCF_KIT											
+9255	AIMP1	aminoacyl tRNA synthetase complex interacting multifunctional protein 1 [Source:HGNC Symbol;Acc:HGNC:10648]												REACTOME_TRANSLATION								
+2617	GARS1	glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162]												REACTOME_TRANSLATION								
+10352	WARS2	tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]												REACTOME_TRANSLATION								
+51649	MRPS23	mitochondrial ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:14509]												REACTOME_TRANSLATION								
+55037	PTCD3	pentatricopeptide repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:24717]												REACTOME_TRANSLATION								
+7818	DAP3	death associated protein 3 [Source:HGNC Symbol;Acc:HGNC:2673]												REACTOME_TRANSLATION								
+8668	EIF3I	eukaryotic translation initiation factor 3 subunit I [Source:HGNC Symbol;Acc:HGNC:3272]												REACTOME_TRANSLATION								
+1606	DGKA	diacylglycerol kinase alpha [Source:HGNC Symbol;Acc:HGNC:2849]															REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS					
+8527	DGKD	diacylglycerol kinase delta [Source:HGNC Symbol;Acc:HGNC:2851]															REACTOME_EFFECTS_OF_PIP2_HYDROLYSIS					
+10818	FRS2	fibroblast growth factor receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:16971]																	REACTOME_NEGATIVE_REGULATION_OF_FGFR3_SIGNALING			REACTOME_NEGATIVE_REGULATION_OF_FGFR4_SIGNALING
+55588	MED29	mediator complex subunit 29 [Source:HGNC Symbol;Acc:HGNC:23074]																		REACTOME_METABOLISM_OF_LIPIDS		
+2760	GM2A	ganglioside GM2 activator [Source:HGNC Symbol;Acc:HGNC:4367]																		REACTOME_METABOLISM_OF_LIPIDS		
+9524	TECR	trans-2,3-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:4551]																		REACTOME_METABOLISM_OF_LIPIDS		
+9374	PPT2	palmitoyl-protein thioesterase 2 [Source:HGNC Symbol;Acc:HGNC:9326]																		REACTOME_METABOLISM_OF_LIPIDS		
+5287	PIK3C2B	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta [Source:HGNC Symbol;Acc:HGNC:8972]																		REACTOME_METABOLISM_OF_LIPIDS		
+65977	PLEKHA3	pleckstrin homology domain containing A3 [Source:HGNC Symbol;Acc:HGNC:14338]																		REACTOME_METABOLISM_OF_LIPIDS		
+1717	DHCR7	7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860]																		REACTOME_METABOLISM_OF_LIPIDS		
+113612	CYP2U1	cytochrome P450 family 2 subfamily U member 1 [Source:HGNC Symbol;Acc:HGNC:20582]																		REACTOME_METABOLISM_OF_LIPIDS		
+64850	ETNPPL	ethanolamine-phosphate phospho-lyase [Source:HGNC Symbol;Acc:HGNC:14404]																		REACTOME_METABOLISM_OF_LIPIDS		
+10087	CERT1	ceramide transporter 1 [Source:HGNC Symbol;Acc:HGNC:2205]																		REACTOME_METABOLISM_OF_LIPIDS		
+57522	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:17382]																				
+2668	GDNF	glial cell derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:4232]																				
+4487	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]																				
+4838	NODAL	nodal growth differentiation factor [Source:HGNC Symbol;Acc:HGNC:7865]																				
+203190	LGI3	leucine rich repeat LGI family member 3 [Source:HGNC Symbol;Acc:HGNC:18711]																				
+11113	CIT	citron rho-interacting serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1985]																				
+9639	ARHGEF10	Rho guanine nucleotide exchange factor 10 [Source:HGNC Symbol;Acc:HGNC:14103]																				
+84986	ARHGAP19	Rho GTPase activating protein 19 [Source:HGNC Symbol;Acc:HGNC:23724]																				
+25805	BAMBI	BMP and activin membrane bound inhibitor [Source:HGNC Symbol;Acc:HGNC:30251]																				
+8407	TAGLN2	transgelin 2 [Source:HGNC Symbol;Acc:HGNC:11554]																				
+103	ADAR	adenosine deaminase RNA specific [Source:HGNC Symbol;Acc:HGNC:225]																				
+11074	TRIM31	tripartite motif containing 31 [Source:HGNC Symbol;Acc:HGNC:16289]																				
+23450	SF3B3	splicing factor 3b subunit 3 [Source:HGNC Symbol;Acc:HGNC:10770]																				
+55660	PRPF40A	pre-mRNA processing factor 40 homolog A [Source:HGNC Symbol;Acc:HGNC:16463]																				
+58509	CACTIN	cactin, spliceosome C complex subunit [Source:HGNC Symbol;Acc:HGNC:29938]																				
+8899	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]																				
+7804	LRP8	LDL receptor related protein 8 [Source:HGNC Symbol;Acc:HGNC:6700]																				
+1727	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]																				
+55191	NADSYN1	NAD synthetase 1 [Source:HGNC Symbol;Acc:HGNC:29832]																				
+55229	PANK4	pantothenate kinase 4 (inactive) [Source:HGNC Symbol;Acc:HGNC:19366]																				
+51004	COQ6	coenzyme Q6, monooxygenase [Source:HGNC Symbol;Acc:HGNC:20233]																				
+9657	IQCB1	IQ motif containing B1 [Source:HGNC Symbol;Acc:HGNC:28949]																				
+9551	ATP5MF	ATP synthase membrane subunit f [Source:HGNC Symbol;Acc:HGNC:848]																				
+8673	VAMP8	vesicle associated membrane protein 8 [Source:HGNC Symbol;Acc:HGNC:12647]																				
+79961	DENND2D	DENN domain containing 2D [Source:HGNC Symbol;Acc:HGNC:26192]																				
+5481	PPID	peptidylprolyl isomerase D [Source:HGNC Symbol;Acc:HGNC:9257]																				
+8831	SYNGAP1	synaptic Ras GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:11497]																				
+3909	LAMA3	laminin subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:6483]																				
+2039	DMTN	dematin actin binding protein [Source:HGNC Symbol;Acc:HGNC:3382]																				
+57380	MRS2	magnesium transporter MRS2 [Source:HGNC Symbol;Acc:HGNC:13785]																				
+7167	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]																				
+51719	CAB39	calcium binding protein 39 [Source:HGNC Symbol;Acc:HGNC:20292]																				
+25798	BRI3	brain protein I3 [Source:HGNC Symbol;Acc:HGNC:1109]																				
+79065	ATG9A	autophagy related 9A [Source:HGNC Symbol;Acc:HGNC:22408]																				
+51426	POLK	DNA polymerase kappa [Source:HGNC Symbol;Acc:HGNC:9183]																				
+10098	TSPAN5	tetraspanin 5 [Source:HGNC Symbol;Acc:HGNC:17753]																				
+4704	NDUFA9	NADH:ubiquinone oxidoreductase subunit A9 [Source:HGNC Symbol;Acc:HGNC:7693]																				
+91942	NDUFAF2	NADH:ubiquinone oxidoreductase complex assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:28086]																				
+2550	GABBR1	gamma-aminobutyric acid type B receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:4070]																				
+5697	PYY	peptide YY [Source:HGNC Symbol;Acc:HGNC:9748]																				
+717	C2	complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]																				
+79654	HECTD3	HECT domain E3 ubiquitin protein ligase 3 [Source:HGNC Symbol;Acc:HGNC:26117]																				
+6440	SFTPC	surfactant protein C [Source:HGNC Symbol;Acc:HGNC:10802]																				
+162417	NAGS	N-acetylglutamate synthase [Source:HGNC Symbol;Acc:HGNC:17996]																				
+27163	NAAA	N-acylethanolamine acid amidase [Source:HGNC Symbol;Acc:HGNC:736]																				
+9229	DLGAP1	DLG associated protein 1 [Source:HGNC Symbol;Acc:HGNC:2905]																				
+80727	TTYH3	tweety family member 3 [Source:HGNC Symbol;Acc:HGNC:22222]																				
+363	AQP6	aquaporin 6 [Source:HGNC Symbol;Acc:HGNC:639]																				
+11078	TRIOBP	TRIO and F-actin binding protein [Source:HGNC Symbol;Acc:HGNC:17009]																				
+132	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]																				
+3801	KIFC3	kinesin family member C3 [Source:HGNC Symbol;Acc:HGNC:6326]																				
+7389	UROD	uroporphyrinogen decarboxylase [Source:HGNC Symbol;Acc:HGNC:12591]																				
+100170229	SRRM5	serine/arginine repetitive matrix 5 [Source:HGNC Symbol;Acc:HGNC:37248]																				
+100286938	VPS13A-AS1	VPS13A antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:44167]																				
+100422899	MIR3190	microRNA 3190 [Source:HGNC Symbol;Acc:HGNC:38190]																				
+100500841	MIR3678	microRNA 3678 [Source:HGNC Symbol;Acc:HGNC:38891]																				
+100505385	IQCJ-SCHIP1	IQCJ-SCHIP1 readthrough [Source:HGNC Symbol;Acc:HGNC:38842]																				
+100507633	TNKS2-DT	TNKS2 divergent transcript [Source:HGNC Symbol;Acc:HGNC:45173]																				
+100526740	ATP5MF-PTCD1	ATP5MF-PTCD1 readthrough [Source:HGNC Symbol;Acc:HGNC:38844]																				
+100532746	PPT2-EGFL8	PPT2-EGFL8 readthrough (NMD candidate) [Source:HGNC Symbol;Acc:HGNC:48343]																				
+100533184	ARHGAP19-SLIT1	ARHGAP19-SLIT1 readthrough (NMD candidate) [Source:HGNC Symbol;Acc:HGNC:48348]																				
+100616282	MIR4738	microRNA 4738 [Source:HGNC Symbol;Acc:HGNC:41679]																				
+100885848	PTGES3L	prostaglandin E synthase 3 like [Source:HGNC Symbol;Acc:HGNC:43943]																				
+100885850	PTGES3L-AARSD1	PTGES3L-AARSD1 readthrough [Source:HGNC Symbol;Acc:HGNC:43946]																				
+10230	NBR2	neighbor of BRCA1 lncRNA 2 [Source:HGNC Symbol;Acc:HGNC:20691]																				
+10237	SLC35B1	solute carrier family 35 member B1 [Source:HGNC Symbol;Acc:HGNC:20798]																				
+10566	AKAP3	A-kinase anchoring protein 3 [Source:HGNC Symbol;Acc:HGNC:373]																				
+106480731	C6orf47-AS1	C6orf47 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:39767]																				
+106481583	RNU6-1276P	RNA, U6 small nuclear 1276, pseudogene [Source:HGNC Symbol;Acc:HGNC:48239]																				
+10927	SPIN1	spindlin 1 [Source:HGNC Symbol;Acc:HGNC:11243]																				
+11099	PTPN21	protein tyrosine phosphatase non-receptor type 21 [Source:HGNC Symbol;Acc:HGNC:9651]																				
+1117	CHI3L2	chitinase 3 like 2 [Source:HGNC Symbol;Acc:HGNC:1933]																				
+113251	LARP4	La ribonucleoprotein 4 [Source:HGNC Symbol;Acc:HGNC:24320]																				
+116238	TLCD1	TLC domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25177]																				
+118426	BORCS5	BLOC-1 related complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:17950]																				
+126298	IRGQ	immunity related GTPase Q [Source:HGNC Symbol;Acc:HGNC:24868]																				
+130026	ICA1L	islet cell autoantigen 1 like [Source:HGNC Symbol;Acc:HGNC:14442]																				
+133015	PACRGL	parkin coregulated like [Source:HGNC Symbol;Acc:HGNC:28442]																				
+145483	FAM161B	FAM161 centrosomal protein B [Source:HGNC Symbol;Acc:HGNC:19854]																				
+146923	RUNDC1	RUN domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25418]																				
+151188	ARL6IP6	ADP ribosylation factor like GTPase 6 interacting protein 6 [Source:HGNC Symbol;Acc:HGNC:24048]																				
+162427	RETREG3	reticulophagy regulator family member 3 [Source:HGNC Symbol;Acc:HGNC:27258]																				
+166647	ADGRA3	adhesion G protein-coupled receptor A3 [Source:HGNC Symbol;Acc:HGNC:13839]																				
+221545	C6orf136	chromosome 6 open reading frame 136 [Source:HGNC Symbol;Acc:HGNC:21301]																				
+221908	PPP1R35	protein phosphatase 1 regulatory subunit 35 [Source:HGNC Symbol;Acc:HGNC:28320]																				
+23230	VPS13A	vacuolar protein sorting 13 homolog A [Source:HGNC Symbol;Acc:HGNC:1908]																				
+25851	TECPR1	tectonin beta-propeller repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:22214]																				
+26024	PTCD1	pentatricopeptide repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:22198]																				
+26112	CCDC69	coiled-coil domain containing 69 [Source:HGNC Symbol;Acc:HGNC:24487]																				
+26260	FBXO25	F-box protein 25 [Source:HGNC Symbol;Acc:HGNC:13596]																				
+27346	TMEM97	transmembrane protein 97 [Source:HGNC Symbol;Acc:HGNC:28106]																				
+284085	KRT18P55	keratin 18 pseudogene 55 [Source:HGNC Symbol;Acc:HGNC:26874]																				
+284086	NEK8	NIMA related kinase 8 [Source:HGNC Symbol;Acc:HGNC:13387]																				
+284346	ZNF575	zinc finger protein 575 [Source:HGNC Symbol;Acc:HGNC:27606]																				
+399665	EEIG1	estrogen-induced osteoclastogenesis regulator 1 [Source:HGNC Symbol;Acc:HGNC:31419]																				
+401320	GARS1-DT	GARS1 divergent transcript [Source:HGNC Symbol;Acc:HGNC:48951]																				
+441094	NR2F1-AS1	NR2F1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:48622]																				
+4901	NRL	neural retina leucine zipper [Source:HGNC Symbol;Acc:HGNC:8002]																				
+503693	LOH12CR2	loss of heterozygosity on chromosome 12, region 2 [Source:HGNC Symbol;Acc:HGNC:26524]																				
+51278	IER5	immediate early response 5 [Source:HGNC Symbol;Acc:HGNC:5393]																				
+51430	SUCO	SUN domain containing ossification factor [Source:HGNC Symbol;Acc:HGNC:1240]																				
+54762	GRAMD1C	GRAM domain containing 1C [Source:HGNC Symbol;Acc:HGNC:25252]																				
+54910	SEMA4C	semaphorin 4C [Source:HGNC Symbol;Acc:HGNC:10731]																				
+55139	ANKZF1	ankyrin repeat and zinc finger peptidyl tRNA hydrolase 1 [Source:HGNC Symbol;Acc:HGNC:25527]																				
+55246	CCDC25	coiled-coil domain containing 25 [Source:HGNC Symbol;Acc:HGNC:25591]																				
+55249	YY1AP1	YY1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:30935]																				
+56063	TMEM234	transmembrane protein 234 [Source:HGNC Symbol;Acc:HGNC:28837]																				
+56853	CELF4	CUGBP Elav-like family member 4 [Source:HGNC Symbol;Acc:HGNC:14015]																				
+57827	C6orf47	chromosome 6 open reading frame 47 [Source:HGNC Symbol;Acc:HGNC:19076]																				
+58506	SCAF1	SR-related CTD associated factor 1 [Source:HGNC Symbol;Acc:HGNC:30403]																				
+64118	DUS1L	dihydrouridine synthase 1 like [Source:HGNC Symbol;Acc:HGNC:30086]																				
+641649	TMEM91	transmembrane protein 91 [Source:HGNC Symbol;Acc:HGNC:32393]																				
+6433	SFSWAP	splicing factor SWAP [Source:HGNC Symbol;Acc:HGNC:10790]																				
+649446	DLGAP1-AS1	DLGAP1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:31676]																				
+65108	MARCKSL1	MARCKS like 1 [Source:HGNC Symbol;Acc:HGNC:7142]																				
+7165	TPD52L2	TPD52 like 2 [Source:HGNC Symbol;Acc:HGNC:12007]																				
+79177	ZNF576	zinc finger protein 576 [Source:HGNC Symbol;Acc:HGNC:28357]																				
+79690	GAL3ST4	galactose-3-O-sulfotransferase 4 [Source:HGNC Symbol;Acc:HGNC:24145]																				
+79842	ZBTB3	zinc finger and BTB domain containing 3 [Source:HGNC Symbol;Acc:HGNC:22918]																				
+79955	PDZD7	PDZ domain containing 7 [Source:HGNC Symbol;Acc:HGNC:26257]																				
+805	CALM2	calmodulin 2 [Source:HGNC Symbol;Acc:HGNC:1445]																				
+80863	PRRT1	proline rich transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:13943]																				
+81855	SFXN3	sideroflexin 3 [Source:HGNC Symbol;Acc:HGNC:16087]																				
+83463	MXD3	MAX dimerization protein 3 [Source:HGNC Symbol;Acc:HGNC:14008]																				
+84305	PYM1	PYM homolog 1, exon junction complex associated factor [Source:HGNC Symbol;Acc:HGNC:30258]																				
+8444	DYRK3	dual specificity tyrosine phosphorylation regulated kinase 3 [Source:HGNC Symbol;Acc:HGNC:3094]																				
+84501	SPIRE2	spire type actin nucleation factor 2 [Source:HGNC Symbol;Acc:HGNC:30623]																				
+85451	UNK	unk zinc finger [Source:HGNC Symbol;Acc:HGNC:29369]																				
+9064	MAP3K6	mitogen-activated protein kinase kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6858]																				
+92211	CDHR1	cadherin related family member 1 [Source:HGNC Symbol;Acc:HGNC:14550]																				
+93627	TBCK	TBC1 domain containing kinase [Source:HGNC Symbol;Acc:HGNC:28261]																				
+9911	TMCC2	transmembrane and coiled-coil domain family 2 [Source:HGNC Symbol;Acc:HGNC:24239]																				
