@@ -19,7 +19,7 @@ Opt.SubDirs.SupplMaterialDir        = "SupplementaryMaterial";
 
 Opt.FigureFolders = ["Figure_01" "Figure_02" "Figure_03" "Figure_04"];
 
-Opt.SupplMat = ["SupplementaryFigure_01" "SupplementaryFigure_02" "SupplementaryTable_01" "SupplementaryTable_02" "SupplementaryTable_03"];
+Opt.SupplMat = ["SupplementaryFigure_01" "SupplementaryFigure_02" "SupplementaryFigure_03" "SupplementaryTable_01" "SupplementaryTable_02" "SupplementaryTable_03"];
 
 % Optional path to jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv file with
 % methylation data, will be copied to "RawDataDir"
