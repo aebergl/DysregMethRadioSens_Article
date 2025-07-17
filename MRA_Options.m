@@ -2,7 +2,7 @@
 
 % Please set you folder where 
 
-Opt.BaseDir                 = "/Users/berglund.anders/Documents/PublicationFolders/RadiationMethylationArticle_V04";
+Opt.BaseDir                 = "/Users/berglund.anders/Documents/PublicationFolders/RadiationMethylationArticle";
 
 % These directories will be created in the BaseDir if they already are not there
 Opt.SubDirs.SampleAnnotationDir     = "SampleAnnotation";
@@ -23,8 +23,7 @@ Opt.SupplMat = ["SupplementaryFigure_01" "SupplementaryFigure_02" "Supplementary
 
 % Optional path to jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv file with
 % methylation data, will be copied to "RawDataDir"
-Opt.TCGA_M450_path = '/Users/berglund.anders/Documents/DATA/TCGA_PANCANCER/MOLECULAR/M450K/jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv';   
-
+Opt.TCGA_M450_path = '/Users/berglund.anders/Documents/DATA/jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv';   
 % Link to processed and normalized CCLE data file
 Opt.CCLE_M450_GSE68379_path = '/Users/berglund.anders/Documents/DATA/CCLE/MOLECULAR/M450_n1028/ENmix/beta_V4_n1028_MV.txt';   
 
