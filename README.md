@@ -99,9 +99,20 @@ Functions for calculating results used in the article. These results are used in
 ### GenerateSupplTables.m ###
 
 ## Additional Files ##
-### RadiationInfo.xlsx ###
-### GSEA\_REACTOME\_Selected\_CpGprobes.tsv ###
+### [RadiationInfo.xlsx](RadiationInfo.xlsx) ###
+Excel file with manually curated radiation therapy information for TCGA samples.
+### [GSEA\_REACTOME\_Selected\_CpGprobes.tsv](GSEA_REACTOME_Selected_CpGprobes.tsv) ###
 ### [GSEA\_TFT_GTRD\_Selected\_CpGprobes.tsv](GSEA_TFT_GTRD_Selected_CpGprobes.tsv) ###
+These two files are the output from the GSEA analysis and used in the [GeneratePanelFigure04.m](GeneratePanelFigure04.m) function. They were generated as follows:
+
+* Use the Gene symbols found in GeneSymbols\_SelectedCpGprobes.txt file located in the Result folder Paste them in the Input Gene Identifiers field at https://www.gsea-msigdb.org/gsea/msigdb/human/annotate.jsp
+* Select show top 20 gene sets and select the following gene sets
+ 
+1. CP:REACTOME: Reactome gene sets and hit Compute overlaps. 
+	* Select Save to: Text (as Tab separated values; \*.tsv) and rename the file from Overlap.tsv to GSEA\_REACTOME\_Selected\_CpGprobes.tsv
+
+2. TFT:GTRD: GTRD transcription factor targets and hit Compute overlaps. 
+	* 	Select Save to: Text (as Tab separated values; *.tsv) and rename the file to GSEA\_TFT\_GTRD\_Selected\_CpGprobes.tsv
 
 
 
