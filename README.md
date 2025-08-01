@@ -42,6 +42,21 @@ Function for initiating the folder structure and checking that all functions are
 
 ## Downloading and Processing Files ##
 
+### DownloadProcessTCGAPanCanM450.m ###
+This is a function for downloading and processing Illumina M450K Pancancer data for the article "A dysregulated methylome modulates the radiosensitivity of cancer. "The function will also download additional annotation files used in the article. It is recommended that the large "jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv" file is downloaded separately, as using "websave" takes significant time. The location of the files can be given in the MRA_Options.m files or can be directly put in the "/RawDataDir" folder.
+
+Additional annotation files will also be downloaded and placed in the "/SampleAnnotation" folder. These files can also be found in the [SampleAnnotation folder.](/SampleAnnotation)
+
+### ProcessTumorTypesM450.m ###
+
+### DownloadProcessTCGAPanCanRNAseq.m ###
+
+### ProcessTumorTypesRNAseq.m ###
+
+### ProcessCCLEM450.m ###
+
+
+
 ## Calculations ##
 
 ## Generate Figures ##

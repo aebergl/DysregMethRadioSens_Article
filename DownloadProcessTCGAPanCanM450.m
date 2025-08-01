@@ -1,6 +1,8 @@
 function DownloadProcessTCGAPanCanM450
 
-% Function for processing Illumina M450K Pancancer data for "A dysregulated methylome modulates the radiosensitivity of cancer" article
+% Function for downloading and processing Illumina M450K Pancancer data for "A dysregulated
+% methylome modulates the radiosensitivity of cancer" article. 
+% the function will also download additional annotation files used in the article.
 % Anders Berglund 2025
 %% Directory paths
 
@@ -94,7 +96,6 @@ if ~isfile('NIHMS958981-supplement-2.xlsx')
     catch
         try
             websave('NIHMS958981-supplement-2.xlsx','https://ars.els-cdn.com/content/image/1-s2.0-S2211124718304248-mmc2.xlsx');
-            https://pmc.ncbi.nlm.nih.gov/articles/instance/6002769/bin/NIHMS958981-supplement-2.xlsx
         catch
 
             error('Could not load NIHMS958981-supplement-2.xlsx from https://pmc.ncbi.nlm.nih.gov/articles/instance/6002769/bin/NIHMS958981-supplement-2.xlsx')
