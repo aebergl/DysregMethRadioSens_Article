@@ -12,7 +12,6 @@ catch
 end
 
 % Create Folders
-
 %Check if BaseDir exist, otherwise create it
 if ~isfolder(Opt.BaseDir)
     warning('backtrace','off');
@@ -48,3 +47,22 @@ for i = 1:length(Opt.SupplMat )
         error('Could not create %s, reason: %s',fullfile(Opt.BaseDir,Opt.SubDirs.SupplMaterialDir,Opt.SupplMat(i)),Msg)
     end
 end
+
+%% Check that necessary funcions are available
+
+if ~exist('GetPalette','file')
+    error("Please download GetPalette.m from https://github.com/aebergl/AEB_COLOR and add it to the path") 
+end
+
+if ~exist('DensScat','file')
+    error("Please download DensScat.m from https://github.com/aebergl/DensScat and add it to the path") 
+end
+
+if ~exist('MatSurv','file')
+    error("Please download MatSurv.m from https://github.com/aebergl/MatSurv and add it to the path") 
+end
+
+if ~exist('BioinformaticsAEB','dir')
+    error("Please download BioinformaticsAEB from https://github.com/aebergl/BioinformaticsAEB and add it to the path") 
+end
+
