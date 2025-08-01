@@ -3,7 +3,7 @@ Matlab functions and scripts for downloading, processing, calculating and genera
 
  
 ## Table of contents
-- [Requirements](Requirements)
+- [Requirements](#Requirements)
 
 ## Requirements
 MATLAB R2024b was used, but older versions should also work.
