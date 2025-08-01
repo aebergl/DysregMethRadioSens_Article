@@ -7,7 +7,7 @@ Matlab functions and scripts for downloading, processing, calculating and genera
 * [Initiation](#Initiation)
 	* [MRA_Options.m](#MRA_Options.m)
 	* [InitiateMRA.m](#InitiateMRA.m)
-* [Downloading & Processing Files](#Downloading-&-processing-files)
+* [Downloading & Processing Files](#Downloading-&-Processing-Files)
 * [Calculations](#Calculations)
 * [Generate Figures](#Generate-Figures)
 * [Generate Supplementary Figures](#Generate-Supplementary-Figures)
@@ -36,5 +36,7 @@ MATLAB R2024b was used, but older versions should also work.
 ## Generate Supplementary Tables ##
 
 ## Additional Files ##
+
+
 
 
