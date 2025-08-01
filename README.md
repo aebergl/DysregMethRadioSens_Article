@@ -5,7 +5,7 @@ Matlab functions and scripts for downloading, processing, calculating and genera
 ## Table of contents
 * [Requirements](#Requirements)
 * [Initiation](#Initiation)
-	* [MRA_Options.m](#MRA-Options-m)
+	* [MRA_Options.m](#MRA-Options.m)
 	* [InitiateMRA.m](#InitiateMRA.m)
 * [Downloading and Processing Files](#Downloading-and-Processing-Files)
 * [Calculations](#Calculations)
