@@ -1,6 +1,6 @@
 function ProcessTumorTypesM450
-
-% Script for processing Illumina M450K Pancancer data for "A dysregulated methylome modulates the radiosensitivity of cancer" article
+% Function for generating different tumor type methylation datasets and adding tumor type-specific 
+% annotation. The files are saved in the DataDir directory.
 % Anders Berglund 2025
 %% Directory paths
 try
