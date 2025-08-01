@@ -25,6 +25,10 @@ MATLAB R2024b was used, but older versions should also work.
 * DensScat, A fast MATLAB function for creating density scatter plots for large datasets, [GitHub](https://github.com/aebergl/DensScat)
 * AEB_COLOR, Color related functions, including color palettes, [GitHub](https://github.com/aebergl/AEB_COLOR)
 
+## Initiation ##
+
+### MRA_Options.m ##
+
 ## Downloading and Processing Files ##
 
 ## Calculations ##
