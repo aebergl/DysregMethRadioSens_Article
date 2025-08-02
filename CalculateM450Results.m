@@ -1,7 +1,7 @@
 function CalculateM450Results
-
-% Function for processing Illumina M450K Pancancer data for "A dysregulated methylome modulates the radiosensitivity of cancer" article
+% Function for calculating the Cox-regression models for the methylation data
 % Anders Berglund 2025
+
 %% Directory paths
 try
     MRA_Options;

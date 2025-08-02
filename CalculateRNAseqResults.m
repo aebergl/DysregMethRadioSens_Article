@@ -1,4 +1,6 @@
 function CalculateRNAseqResults
+% Calculate results from the RNAseq data
+
 
 %% Directory paths
 try

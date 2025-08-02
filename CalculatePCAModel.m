@@ -1,6 +1,6 @@
 function CalculatePCAModel
-
-% Function for processing Illumina M450K Pancancer data for "A dysregulated methylome modulates the radiosensitivity of cancer" article
+% Calculates the PCA model with 50 components for the t-SNE plot using 3271 samples and 357584 variables.
+% Took ~175 minutes on my 2023 Mac Studio M2 Ultra.
 % Anders Berglund 2025
 %% Directory paths
 try

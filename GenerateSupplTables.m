@@ -1,6 +1,5 @@
 function GenerateSupplTables
-
-% Script for generating all graphs in Panel Gigure 1.
+% Function generating individual tab-separated text files for the supplementary tables
 
 %% Load defaults
 MRA_Options;

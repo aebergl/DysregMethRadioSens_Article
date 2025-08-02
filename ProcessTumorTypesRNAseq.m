@@ -1,11 +1,12 @@
 function ProcessTumorTypesRNAseq
+%Function for generating different tumor type RNAseq datasets and adding tumor type-specific annotation
+
 %% Directory paths
 try
     MRA_Options;
 catch
     error('Could not load MRA_Options.m file\n Make sure the GitHub library is added to the path')
 end
-
 
 
 %% Data directory

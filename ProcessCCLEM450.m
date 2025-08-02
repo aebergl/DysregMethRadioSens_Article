@@ -1,4 +1,10 @@
 function ProcessCCLEM450
+% Function for reading and processing the CCLE M450 methylation data. We used ENmix for processing 
+% the raw IDAT files. I will also merge in the radiation resistance data from "A genetic basis for
+% the variation in the vulnerability of cancer to DNA damage, PMID: 27109210. Cell line names will 
+% be normalized using data from [Cellosaurus](https://www.cellosaurus.org/index.html) and then merged
+
+
 
 %% Load Defaults
 

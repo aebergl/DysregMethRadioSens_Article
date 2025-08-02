@@ -1,5 +1,5 @@
 function  GeneratePanelFigure03
-% Script for generating all graphs in Panel Figure 1.
+% Function for generating all individual graphs for panel figure 3
 
 %% Load defaults
 MRA_Options;

@@ -1,6 +1,5 @@
 function GenerateSupplFigure01
-
-% Script for generating all graphs in Panel Figure 1.
+% Function for generating all individual graphs for supplementary panel figure 1
 
 %% Load defaults
 MRA_Options;

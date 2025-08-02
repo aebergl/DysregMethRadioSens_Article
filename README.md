@@ -33,6 +33,8 @@ Matlab functions and scripts for downloading, processing, calculating and genera
 	* [RadiationInfo.xlsx](#RadiationInfoxlsx)
 	* [GSEA\_REACTOME\_Selected\_CpGprobes.tsv](#GSEA_REACTOME_Selected_CpGprobestsv)
 	* [GSEA\_TFT\_GTRD\_Selected\_CpGprobes.tsv](#GSEA_TFT_GTRD_Selected_CpGprobestsv)
+* [Folders](#Folders)
+	* [SampleAnnotation](#SampleAnnotation)
 
 ## Requirements
 MATLAB R2024b was used for generating the figures in the publication, but older versions should also work.
@@ -48,62 +50,87 @@ MATLAB R2024b was used for generating the figures in the publication, but older 
 ## Initiation ##
 
 ### MRA\_Options.m ###
-Script defining the base directory and folder structure. Also allows for linking to already downloaded molecular data files.
+- Script defining the base directory and folder structure. Also allows for linking to already downloaded molecular data files.
 
 **Please edit the 'Opt.BaseDir' to your folder of choice**
 
 ### InitiateMRA.m ##
-Function for initiating the folder structure and checking that all functions are available for the “A dysregulated methylome modulates the radiosensitivity of cancer" article.
+- Function for initiating the folder structure and checking that all functions are available for the “A dysregulated methylome modulates the radiosensitivity of cancer" article.
 
 ## Downloading and Processing Files ##
 Functions for downloading methylation and RNAseq data used in the article. 
 
 ### DownloadProcessTCGAPanCanM450.m ###
-This is a function for downloading and processing Illumina M450K Pancancer data for the article "A dysregulated methylome modulates the radiosensitivity of cancer. "The function will also download additional annotation files used in the article. It is recommended that the large "jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv" file is downloaded separately, as using "websave" takes significant time. The location of the files can be given in the MRA_Options.m files or can be directly put in the "/RawDataDir" folder.
+- This is a function for downloading and processing Illumina M450K Pancancer data for the article "A dysregulated methylome modulates the radiosensitivity of cancer. "The function will also download additional annotation files used in the article. It is recommended that the large "jhu-usc.edu_PANCAN_HumanMethylation450.betaValue_whitelisted.tsv" file is downloaded separately, as using "websave" takes significant time. The location of the files can be given in the MRA_Options.m files or can be directly put in the "/RawDataDir" folder.
 
-Additional annotation files will also be downloaded and placed in the "/SampleAnnotation" folder. These files can also be found in the [SampleAnnotation folder.](/SampleAnnotation)
+- Additional annotation files will also be downloaded and placed in the "/SampleAnnotation" folder. These files can also be found in the [SampleAnnotation folder.](/SampleAnnotation)
 
-The processed data is saved in the M450K.mat file in the DataDir directory.
+- The processed data is saved in the M450K.mat file in the DataDir directory.
 
 ### ProcessTumorTypesM450.m ###
-Function for generating different tumor type methylation datasets and adding tumor type-specific annotation. The files are saved in the DataDir directory.
+- Function for generating different tumor type methylation datasets and adding tumor type-specific annotation. The files are saved in the DataDir directory.
 
 ### DownloadProcessTCGAPanCanRNAseq.m ###
-Function for downloading and processing the TCGA PanCancer RNAseq data.
+- Function for downloading and processing the TCGA PanCancer RNAseq data.
 
 ### ProcessTumorTypesRNAseq.m ###
-Function for generating different tumor type RNAseq datasets and adding tumor type-specific annotation. 
+- Function for generating different tumor type RNAseq datasets and adding tumor type-specific annotation. 
 
 ### ProcessCCLEM450.m ###
-Function for reading and processing the CCLE M450 methylation data [(GSE68379)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68379). We used ENmix for processing the raw IDAT files. I will also merge in the radiation resistance data from "A genetic basis for the variation in the vulnerability of cancer to DNA damage, PMID: 27109210. Cell line names will be normalized using data from [Cellosaurus](https://www.cellosaurus.org/index.html) and then merged. 
+- Function for reading and processing the CCLE M450 methylation data [(GSE68379)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68379). We used ENmix for processing the raw IDAT files. I will also merge in the radiation resistance data from "A genetic basis for the variation in the vulnerability of cancer to DNA damage, PMID: 27109210. Cell line names will be normalized using data from [Cellosaurus](https://www.cellosaurus.org/index.html) and then merged. 
 
 
 ## Calculations ##
-Functions for calculating results used in the article. These results are used in the individual GeneratePanelFigure files.
+- Functions for calculating results used in the article. These results are used in the individual GeneratePanelFigure files.
+
 ### CalculateM450Results.m ###
+- Calculates the Cox-regression models for the methylation data
+
 ### CalculatePCAModel.m ###
+ - Calculates the PCA model with 50 components for the t-SNE plot using 3271 samples and 357584 variables. Took ~175 minutes on my 2023 Mac Studio M2 Ultra.
+
 ### CalculateRNAseqResults.m ###
+- Calculate results from the RNAseq data
+
 ### CalculateCCLEResults.m ###
+- Calculate results from the CCLE data
 
 ## Generate Figures ##
+Functions for generating the individual graphs used in the panel figures. Graphs are exported as PDFs and PNGs for both best quality and compatibility.
 ### GeneratePanelFigure01.m ###
+- Function for generating all individual graphs for panel figure 1
+
 ### GeneratePanelFigure02.m ###
+- Function for generating all individual graphs for panel figure 2
+
 ### GeneratePanelFigure03.m ###
+- Function for generating all individual graphs for panel figure 3
+
 ### GeneratePanelFigure04.m ###
+- Function for generating all individual graphs for panel figure 4
+
 ## Generate Supplementary Figures ##
+Functions for generating the individual graphs used in the supplementary panel figures. Graphs are exported as PDFs and PNGs for both best quality and compatibility.
 ### GenerateSupplFigure01.m ###
+- Function for generating all individual graphs for supplementary panel figure 1
+
 ### GenerateSupplFigure02.m ###
+- Function for generating all individual graphs for supplementary panel figure 2
+
 ### GenerateSupplFigure03.m ###
+- Function for generating all individual graphs for supplementary panel figure 3
 
 ## Generate Supplementary Tables ##
+
 ### GenerateSupplTables.m ###
+ - Function generating individual tab-separated text files for the supplementary tables. 
 
 ## Additional Files ##
 ### [RadiationInfo.xlsx](RadiationInfo.xlsx) ###
-Excel file with manually curated radiation therapy information for TCGA samples.
+An Excel file with manually curated radiation therapy information for TCGA samples.
 ### [GSEA\_REACTOME\_Selected\_CpGprobes.tsv](GSEA_REACTOME_Selected_CpGprobes.tsv) ###
 ### [GSEA\_TFT_GTRD\_Selected\_CpGprobes.tsv](GSEA_TFT_GTRD_Selected_CpGprobes.tsv) ###
-These two files are the output from the GSEA analysis and used in the [GeneratePanelFigure04.m](GeneratePanelFigure04.m) function. They were generated as follows:
+These two files are the output from the GSEA analysis and are used in the [GeneratePanelFigure04.m](GeneratePanelFigure04.m) function. They were generated as follows:
 
 * Use the Gene symbols found in GeneSymbols\_SelectedCpGprobes.txt file located in the Result folder 
 * Paste them in the Input Gene Identifiers field at https://www.gsea-msigdb.org/gsea/msigdb/human/annotate.jsp
@@ -115,6 +142,8 @@ These two files are the output from the GSEA analysis and used in the [GenerateP
 2. TFT:GTRD: GTRD transcription factor targets and hit Compute overlaps. 
 	* 	Select Save to: Text (as Tab separated values; *.tsv) and rename the file to GSEA\_TFT\_GTRD\_Selected\_CpGprobes.tsv
 
+## Folders ##
 
-
+### SampleAnnotation ###
+- Folder with sample annotation files used. 
 

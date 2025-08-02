@@ -1,4 +1,5 @@
 function CalculateCCLEResults
+% Calculate results from the CCLE data
 
 %% Directory paths
 try
