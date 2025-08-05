@@ -133,7 +133,7 @@ BRCA_M450 = AddRowAnnotationFromFile(BRCA_M450,fullfile(SampleAnnotationDirector
 
 % Add even more specific breast annotation
 List      = {'Case.ID','Final Pathology','PAM50','ER IHC','PR IHC','HER2 IHC'};
-BRCA_M450 = AddRowAnnotationFromFile(BRCA_M450,fullfile(SampleAnnotationDirectory,'NIHMS724218-supplement-2.xlsx'),'ColumnsToAdd',List,'Truncate',12,'File_Id','Case.ID','NumHeaderLines',2);
+BRCA_M450 = AddRowAnnotationFromFile(BRCA_M450,fullfile(SampleAnnotationDirectory,'NIHMS724218-supplement-2.xlsx'),'ColumnsToAdd',List,'Truncate',12,'File_Id','Case.ID','NumHeaderLines',2,'SheetName','Suppl. Table 1');
 
 % Select Normal samples
 BRCA_M450_Normal  = EditSamplesDATA(BRCA_M450,{'Solid Tissue Normal'},'Keep','SampleIdentifier','Sample_Type');
